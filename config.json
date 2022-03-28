@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update": {
     "version": "1.0",
     "message": "修复了一些节目频道无法播放的问题"
@@ -29,7 +29,7 @@
   "find_js_from": "src:",
   "find_js_to": ",",
   "search_hint_text": "搜索电视节目",
-  "review": 1,
+  "review": 0,
   "buffering_timeout": 15,
   "channel_codes": {
     "CCTV1综合高清": "cctv1",
