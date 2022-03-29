@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "update": {
     "version": "1.1",
     "message": "修复了一些问题"
@@ -14,7 +14,13 @@
   "live_radios": [
     "64k.mp3"
   ],
-  "include_channels": ["央视", "卫视", "综合", "极速港澳台", "体育"],
+  "include_channels": [
+    "央视",
+    "卫视",
+    "综合",
+    "极速港澳台",
+    "体育"
+  ],
   "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");elements[0].click();",
   "hack_way_enabled": 1,
   "home_url": "https://player.ggiptv.com/iptva.php?app=136",
