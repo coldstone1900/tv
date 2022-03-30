@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "update": {
     "version": "1.1",
     "message": "修复了一些问题"
@@ -34,7 +34,7 @@
   "replaced_js": "function vstPlay()",
   "find_js_from": "src:",
   "find_js_to": ",",
-  "review": 1,
+  "review": 0,
   "buffering_timeout": 15,
   "channel_codes": {
     "CCTV1综合高清": "cctv1",
