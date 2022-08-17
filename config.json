@@ -1,11 +1,21 @@
 {
-  "version": "2.9.1",
+  "version": "3.0.1",
+  "review": 0,
+  "adOpen": 0,
+  "ads": {
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "open": "ca-app-pub-3940256099942544/3419835294"
+  },
   "update": {
-    "version": "2.9",
+    "version": "3.0",
     "message": "修复了一些问题"
   },
   "regions": [
-    {"title": "北京", "id": 3}
+    {
+      "title": "北京",
+      "id": 3
+    }
   ],
   "live_m3u8s": [
     ".mu3u8",
@@ -39,7 +49,6 @@
   "replaced_js": "function vstPlay()",
   "find_js_from": "src:",
   "find_js_to": ",",
-  "review": 0,
   "buffering_timeout": 15,
   "channel_codes": {
     "CCTV1综合高清": "cctv1",
