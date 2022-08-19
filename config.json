@@ -1,15 +1,15 @@
 {
-  "version": "3.0.1",
+  "version": "3.1.1",
+  "update": {
+    "version": "3.1",
+    "message": "修复了一些问题"
+  },
   "review": 0,
   "adOpen": 0,
   "ads": {
     "banner": "ca-app-pub-3940256099942544/6300978111",
     "interstitial": "ca-app-pub-3940256099942544/1033173712",
     "open": "ca-app-pub-3940256099942544/3419835294"
-  },
-  "update": {
-    "version": "3.0",
-    "message": "修复了一些问题"
   },
   "regions": [
     {
@@ -36,7 +36,7 @@
     "百事通IPTV",
     "江西移动IPTV"
   ],
-  "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");elements[0].click();",
+  "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");console.log(elements[0]);elements[0].click();",
   "hack_way_enabled": 1,
   "home_url": "https://player.ggiptv.com/iptva.php?app=136",
   "programme_url": "https://player.ggiptv.com/iptv.php",
