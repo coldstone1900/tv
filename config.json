@@ -1,5 +1,5 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.3",
   "update": {
     "version": "3.2",
     "message": "修复了一些问题"
@@ -7,7 +7,7 @@
   "review": 0,
   "adOpen": 1,
   "ads": {
-    "banner": "",
+    "banner": "ca-app-pub-5272462489798237/4241870755",
     "interstitial": "ca-app-pub-5272462489798237/4341518077",
     "open": "ca-app-pub-5272462489798237/5183309537"
   },
