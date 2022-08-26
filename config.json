@@ -1,7 +1,7 @@
 {
-  "version": "3.1.5",
+  "version": "3.2.1",
   "update": {
-    "version": "3.1",
+    "version": "3.2",
     "message": "修复了一些问题"
   },
   "review": 0,
@@ -13,8 +13,8 @@
   },
   "regions": [
     {
-      "title": "北京",
-      "id": 3
+      "title": "国家台",
+      "id": 409
     }
   ],
   "live_m3u8s": [
@@ -27,6 +27,9 @@
   "live_radios": [
     "64k.mp3"
   ],
+  "live_radios_1": [
+    ".mp3"
+  ],
   "include_channels": [
     "央视",
     "卫视",
@@ -36,6 +39,7 @@
     "百事通IPTV",
     "江西移动IPTV"
   ],
+  "live_nation_url": "https://ytmsout.radio.cn/web/appBroadcast/list?categoryId=0&provinceCode=0",
   "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");console.log(elements[0]);elements[0].click();",
   "hack_way_enabled": 1,
   "home_url": "https://player.ggiptv.com/iptva.php?app=136",
