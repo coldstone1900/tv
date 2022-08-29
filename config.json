@@ -1,7 +1,7 @@
 {
-  "version": "3.4.2",
+  "version": "3.5.1",
   "update": {
-    "version": "3.4",
+    "version": "3.5.0",
     "message": "修复了一些问题"
   },
   "review": 0,
@@ -10,6 +10,14 @@
     "banner": "ca-app-pub-5272462489798237/4241870755",
     "interstitial": "ca-app-pub-5272462489798237/4341518077",
     "open": "ca-app-pub-5272462489798237/5183309537"
+  },
+  "appLovin": {
+    "open": 1,
+    "key": "moTickBwmUx6KT2Hl0mHHHVg4CqyJQiifLsQAwD3qWdvTXtTLHJm0hScoDhSXISuAQ5CCan0rCm7RBcKcMkT_C",
+    "home": "b57949cf8e76d71f",
+    "radio": "ae5538beb9a0f726",
+    "interstitial": "517d39d5ac464be0",
+    "reward": "b6c01c3617b2c292"
   },
   "regions": [
     {
