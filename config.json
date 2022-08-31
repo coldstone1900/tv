@@ -1,7 +1,7 @@
 {
-  "version": "3.6.1",
+  "version": "3.7.1",
   "update": {
-    "version": "3.6.0",
+    "version": "3.7.0",
     "message": "修复了一些问题"
   },
   "review": 0,
@@ -62,6 +62,8 @@
   "find_js_from": "src:",
   "find_js_to": ",",
   "buffering_timeout": 15,
+  "reward_channels": ["港澳台"],
+  "reward_channel_codes": ["爱尔达体育1台", "爱尔达体育2台", "爱尔达体育3台"],
   "channel_codes": {
     "CCTV1综合高清": "cctv1",
     "CCTV2财经高清": "cctv2",
@@ -171,8 +173,8 @@
     "纬来育乐台": "纬来育乐台",
     "ELEVEN 1": "ELEVEN体育一台",
     "ELEVEN 2": "ELEVEN体育二台",
-    "爱尔达体育1台": "爱尔达体育2",
-    "爱尔达体育2台": "爱尔达体育1",
+    "爱尔达体育1台": "爱尔达体育1",
+    "爱尔达体育2台": "爱尔达体育2",
     "大爱一台": "大爱一台",
     "大爱二台": "大爱二台",
     "Discovery": "Discovery",
