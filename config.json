@@ -1,7 +1,7 @@
 {
-  "version": "3.8.1",
+  "version": "4.0.1",
   "update": {
-    "version": "3.8.0",
+    "version": "4.0.0",
     "message": "修复了一些问题"
   },
   "review": 0,
@@ -19,10 +19,11 @@
     "interstitial": "517d39d5ac464be0",
     "reward": "b6c01c3617b2c292"
   },
+  "tvflag": "tv",
   "regions": [
     {
-      "title": "国家台",
-      "id": 409
+      "title": "北京台",
+      "id": 3
     }
   ],
   "live_m3u8s": [
@@ -47,7 +48,6 @@
     "百事通IPTV",
     "江西移动IPTV"
   ],
-  "live_nation_url": "https://ytmsout.radio.cn/web/appBroadcast/list?categoryId=0&provinceCode=0",
   "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");console.log(elements[0]);elements[0].click();",
   "hack_way_enabled": 1,
   "home_url": "https://player.ggiptv.com/iptva.php?app=136",
@@ -62,8 +62,14 @@
   "find_js_from": "src:",
   "find_js_to": ",",
   "buffering_timeout": 15,
-  "reward_channels": ["港澳台"],
-  "reward_channel_codes": ["爱尔达体育1台", "爱尔达体育2台", "爱尔达体育3台"],
+  "reward_channels": [
+    "港澳台"
+  ],
+  "reward_channel_codes": [
+    "爱尔达体育1台",
+    "爱尔达体育2台",
+    "爱尔达体育3台"
+  ],
   "channel_codes": {
     "CCTV1综合高清": "cctv1",
     "CCTV2财经高清": "cctv2",
@@ -491,5 +497,199 @@
     "深圳卫视": "深圳卫视高清",
     "CCTV4欧洲HD": "CCTV4中文国际欧洲",
     "CCTV4美洲HD": "CCTV4中文国际美洲"
-  }
+  },
+  "live_nation_url": "https://ytmsout.radio.cn/web/appBroadcast/list?categoryId=0&provinceCode=0",
+  "defaultLocationId": "1",
+  "locations": [
+    {
+      "locationName": "国家台",
+      "locationId": "1"
+    },
+    {
+      "locationName": "北京",
+      "locationId": "110000"
+    },
+    {
+      "locationName": "天津",
+      "locationId": "120000"
+    },
+    {
+      "locationName": "河北",
+      "locationId": "130000"
+    },
+    {
+      "locationName": "山西",
+      "locationId": "140000"
+    },
+    {
+      "locationName": "内蒙古",
+      "locationId": "150000"
+    },
+    {
+      "locationName": "辽宁",
+      "locationId": "210000"
+    },
+    {
+      "locationName": "吉林",
+      "locationId": "220000"
+    },
+    {
+      "locationName": "黑龙江",
+      "locationId": "230000"
+    },
+    {
+      "locationName": "上海",
+      "locationId": "310000"
+    },
+    {
+      "locationName": "江苏",
+      "locationId": "320000"
+    },
+    {
+      "locationName": "浙江",
+      "locationId": "330000"
+    },
+    {
+      "locationName": "安徽",
+      "locationId": "340000"
+    },
+    {
+      "locationName": "福建",
+      "locationId": "350000"
+    },
+    {
+      "locationName": "江西",
+      "locationId": "360000"
+    },
+    {
+      "locationName": "山东",
+      "locationId": "370000"
+    },
+    {
+      "locationName": "河南",
+      "locationId": "410000"
+    },
+    {
+      "locationName": "湖北",
+      "locationId": "420000"
+    },
+    {
+      "locationName": "湖南",
+      "locationId": "430000"
+    },
+    {
+      "locationName": "广东",
+      "locationId": "440000"
+    },
+    {
+      "locationName": "广西",
+      "locationId": "450000"
+    },
+    {
+      "locationName": "海南",
+      "locationId": "460000"
+    },
+    {
+      "locationName": "重庆",
+      "locationId": "500000"
+    },
+    {
+      "locationName": "四川",
+      "locationId": "510000"
+    },
+    {
+      "locationName": "贵州",
+      "locationId": "520000"
+    },
+    {
+      "locationName": "云南",
+      "locationId": "530000"
+    },
+    {
+      "locationName": "西藏",
+      "locationId": "540000"
+    },
+    {
+      "locationName": "陕西",
+      "locationId": "610000"
+    },
+    {
+      "locationName": "甘肃",
+      "locationId": "620000"
+    },
+    {
+      "locationName": "青海",
+      "locationId": "630000"
+    },
+    {
+      "locationName": "宁夏",
+      "locationId": "640000"
+    },
+    {
+      "locationName": "新疆",
+      "locationId": "650000"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "网络台",
+      "categoryId": "1000"
+    },
+    {
+      "categoryName": "新闻台",
+      "categoryId": "5"
+    },
+    {
+      "categoryName": "音乐台",
+      "categoryId": "14"
+    },
+    {
+      "categoryName": "交通台",
+      "categoryId": "1"
+    },
+    {
+      "categoryName": "体育台",
+      "categoryId": "2"
+    },
+    {
+      "categoryName": "经济台",
+      "categoryId": "11"
+    },
+    {
+      "categoryName": "文艺台",
+      "categoryId": "4"
+    },
+    {
+      "categoryName": "曲艺台",
+      "categoryId": "8"
+    },
+    {
+      "categoryName": "综合台",
+      "categoryId": "12"
+    },
+    {
+      "categoryName": "方言台",
+      "categoryId": "6"
+    },
+    {
+      "categoryName": "外语台",
+      "categoryId": "3"
+    },
+    {
+      "categoryName": "生活台",
+      "categoryId": "10"
+    },
+    {
+      "categoryName": "都市台",
+      "categoryId": "13"
+    },
+    {
+      "categoryName": "旅游台",
+      "categoryId": "7"
+    },
+    {
+      "categoryName": "其他台",
+      "categoryId": "15"
+    }
+  ]
 }
