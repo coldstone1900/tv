@@ -17,10 +17,7 @@
   },
   "tvflag": "tv",
   "regions": [
-    {
-      "title": "北京台",
-      "id": 3
-    }
+    {"title": "国家台", "id": 409}
   ],
   "live_m3u8s": [
     ".mu3u8",
