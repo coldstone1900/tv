@@ -1,5 +1,5 @@
 {
-  "version": "4.0.7",
+  "version": "4.0.9",
   "update": {
     "version": "4.0.0",
     "message": "修复了一些问题"
@@ -21,10 +21,7 @@
   },
   "tvflag": "tv",
   "regions": [
-    {
-      "title": "北京台",
-      "id": 3
-    }
+    {"title": "国家台", "id": 409}
   ],
   "live_m3u8s": [
     ".mu3u8",
