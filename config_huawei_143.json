@@ -1,14 +1,14 @@
 {
-  "version": "4.1.0",
+  "version": "4.1.1",
   "update": {
     "version": "4.1.0",
     "message": "修复了一些问题"
   },
   "review": 0,
-  "review_live_flag": "TEST",
+  "review_live_flag": "cctv",
   "radio_review": 0,
   "appLovin": {
-    "open": 0,
+    "open": 1,
     "key": "moTickBwmUx6KT2Hl0mHHHVg4CqyJQiifLsQAwD3qWdvTXtTLHJm0hScoDhSXISuAQ5CCan0rCm7RBcKcMkT_C",
     "home": "b57949cf8e76d71f",
     "radio": "ae5538beb9a0f726",
@@ -17,7 +17,7 @@
   },
   "tvflag": "tv",
   "regions": [
-    {"title": "国家台", "id": 409}
+    {"title": "北京台", "id": 3}
   ],
   "live_m3u8s": [
     ".mu3u8",
