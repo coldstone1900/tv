@@ -1,11 +1,12 @@
 {
-  "version": "4.1.1",
+  "version": "4.2.1",
   "update": {
-    "version": "4.1.0",
+    "version": "4.2.0",
     "message": "修复了一些问题"
   },
   "review": 0,
   "review_live_flag": "cctv",
+  "review_live_flag_huawei": ["CCTV1综合高清", "CCTV2财经高清", "CCTV3综艺高清","CCTV4中文国际高清","CCTV5体育高清","CCTV5+体育赛事高清","CCTV6电影高清","CCTV7国防军事高清","CCTV8电视剧高清","CCTV9纪录高清","CCTV10科教高清","CCTV11戏曲高清","CCTV12社会与法高清","CCTV13新闻高清","CCTV14少儿高清","CCTV15音乐高清"],
   "radio_review": 0,
   "appLovin": {
     "open": 1,
@@ -43,10 +44,12 @@
   ],
   "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");console.log(elements[0]);elements[0].click();",
   "hack_way_enabled": 1,
-  "home_url": "https://player.ggiptv.com/iptva.php?app=143",
+  "home_url": "https://player.ggiptv.com/iptva.php?app=145",
   "programme_url": "https://player.ggiptv.com/iptv.php",
   "base_url": "https://player.ggiptv.com/",
   "user_agent": "Mozilla/5.0 (Linux; Android [version.release]; [model] Build/[id]; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.77 Mobile Safari/537.36 MicroMessengeriptv/1.4.3 VideoPlayer Html5Plus/1.00",
+  "acceptLanguageHeader": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+  "webView_headers": {"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7", "cookie": "version=1.4.5"},
   "replaced_http_enabled": 1,
   "replace_http_from": "https://",
   "replace_http_to": "http://",
